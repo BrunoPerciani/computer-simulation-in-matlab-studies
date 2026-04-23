@@ -20,10 +20,8 @@ This is a study focused repository. The emphasis is on clarity, incremental lear
 
 ## 🧑‍💻 Author
 **Bruno Zomignani Perciani**  
-Undergraduate Student at the Federal University of ABC (UFABC)
-Exchange Student at Shibaura Institute of Technology (SIT)
+Undergraduate Student at the Federal University of ABC (UFABC) and Exchange Student at Shibaura Institute of Technology (SIT)
 📧 bruno.perciani@aluno.ufabc.edu.br  
 
 **Supervised by:**  
-Prof. Dr. Takumi Miyoshi
-Prof. Dr Taku Yamazaki
+Prof. Dr. Takumi Miyoshi and Prof. Dr Taku Yamazaki
