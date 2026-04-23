@@ -1,6 +1,6 @@
 # Computer Simulation Studies through MATLAB Practices 💻
 
-This repository documents my learning journey in Computer Simulation during my exchange program at Shibaura Institute of Technology 🇯🇵 under the guidance of Prof. Takumi Miyoshi and Prof. Taku Yamazaki. It contains practical assignments, experiments, and projects developed throughout the course, focusing on both theoretical understanding and hands-on implementation using MATLAB. The goal of this repository is to consolidate knowledge in simulation techniques and demonstrate the application of computational methods to solve real-world problems.
+This repository documents my learning journey in Computer Simulation during my exchange program at Shibaura Institute of Technology under the guidance of Prof. Takumi Miyoshi and Prof. Taku Yamazaki. It contains practical assignments, experiments, and projects developed throughout the course, focusing on both theoretical understanding and hands-on implementation using MATLAB. My goal is to consolidate knowledge in simulation techniques and demonstrate the application of computational methods to solve real-world problems.
 
 ## 📌 About this repository
 
