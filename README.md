@@ -26,4 +26,4 @@ Exchange Student at Shibaura Institute of Technology (SIT)
 
 **Supervised by:**  
 Prof. Dr. Takumi Miyoshi  
-Prof. Dr Taku Yamazaki
+Prof. Dr. Taku Yamazaki
