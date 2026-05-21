@@ -1,5 +1,3 @@
-% Practice 1)
-
 % Create a random integer vector with 10 elements
 % Values range from 2 to 28
 % randi([min max], rows, columns)
