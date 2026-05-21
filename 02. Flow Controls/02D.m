@@ -1,5 +1,3 @@
-% Practice 4)
-
 % Keep running the script until the user provides no input
 while true
 
