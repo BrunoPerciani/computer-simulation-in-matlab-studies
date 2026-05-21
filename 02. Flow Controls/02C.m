@@ -1,5 +1,3 @@
-% Practice 3)
-
 % Create a 3x6 array of random numbers between 0 and 1
 % rand(rows, columns)
 A = rand(3, 6);
