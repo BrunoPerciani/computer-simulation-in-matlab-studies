@@ -1,5 +1,3 @@
-% Practice 5.1)
-
 % Generate average monthly temperatures only once
 % Random integer values between 20 and 30 degrees Celsius
 temps = randi([20 30], 1, 12);
