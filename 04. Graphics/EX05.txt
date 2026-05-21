@@ -1,6 +1,5 @@
 Computer Simulation | Assignment 05 | Author: Bruno Zomignani Perciani (Z126013)
 
-
 % Practice 5.1)
 
 % Generate average monthly temperatures only once
