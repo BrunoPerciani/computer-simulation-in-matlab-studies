@@ -28,10 +28,3 @@ disp(E);
 F = A.^(1/2);
 disp('Square root of A:');
 disp(F);
-
-
-
-
-
-
-
