@@ -1,5 +1,5 @@
 % Define the file name
-fileName = 'EX5A.txt';
+fileName = 'Test.txt';
 
 % Try to open the file in read mode
 % fopen returns -1 if the file does not exist
