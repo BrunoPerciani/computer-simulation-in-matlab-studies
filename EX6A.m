@@ -1,7 +1,7 @@
 % Practice 6.1
 
 % Define the file name
-fileName = 'EX6A.txt';
+fileName = 'Test.txt';
 
 % Try to open the file in read mode
 % fopen returns -1 if the file does not exist
