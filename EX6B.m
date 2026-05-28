@@ -1,3 +1,5 @@
+% Practice 6.2
+
 % Define the file name
 fileName = 'Characters.txt';
 
