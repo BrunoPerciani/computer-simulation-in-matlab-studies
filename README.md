@@ -12,7 +12,7 @@ The repository is organized as a sequence of class notebooks. The course begins 
 
 ## ▶️ How to run
 
-The files in this repository can be executed using MATLAB. Make sure you have MATLAB installed, open the scripts or live scripts (.mlx) and run each section step by step to understand the simulation logic. Some simulations may require basic knowledge of MATLAB and numerical methods.
+The files in this repository can be executed using MATLAB. Make sure you have MATLAB installed, open the scripts or live scripts (.m) and run each section step by step to understand the simulation logic. Some simulations may require basic knowledge of MATLAB and numerical methods.
 
 ## 📝 Notes
 
