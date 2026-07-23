@@ -21,7 +21,7 @@ This is a study focused repository. The emphasis is on clarity, incremental lear
 ## 🧑‍💻 Author
 **Bruno Zomignani Perciani**  
 Undergraduate Student at the Federal University of ABC (UFABC)  
-Exchange Student at Shibaura Institute of Technology (SIT)  
+Sandwich Program Student at Shibaura Institute of Technology (SIT)  
 📧 bruno.perciani@aluno.ufabc.edu.br  
 
 **Supervised by:**  
